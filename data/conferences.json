@@ -1,0 +1,276 @@
+[
+  {
+    "id": "isscc-2027",
+    "name": "ISSCC",
+    "year": 2027,
+    "fullName": "IEEE International Solid-State Circuits Conference",
+    "area": "circuits",
+    "tags": ["chip", "solid-state circuits", "SoC"],
+    "location": "San Francisco Marriott Marquis, San Francisco, CA, USA",
+    "conferenceStart": "2027-02-14",
+    "conferenceEnd": "2027-02-18",
+    "timezone": "America/Los_Angeles",
+    "statusNote": "Official ISSCC 2027 CFP is available.",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "Electronic submission",
+        "datetime": "2026-09-09T19:00:00Z",
+        "displayTime": "Sep 9, 2026, 3:00 PM EDT / 19:00 GMT"
+      }
+    ],
+    "sources": [
+      "https://www.isscc.org/paper-submission",
+      "https://www.isscc.org/call-for-papers-overview"
+    ],
+    "watch": {
+      "strategy": "contains",
+      "keywords": ["Deadline for Electronic Submission", "September 9, 2026", "February 14-18, 2027"]
+    }
+  },
+  {
+    "id": "vlsi-2026",
+    "name": "VLSI Symposium",
+    "year": 2026,
+    "fullName": "IEEE/JSAP Symposium on VLSI Technology & Circuits",
+    "area": "circuits",
+    "tags": ["VLSI", "devices", "circuits", "technology"],
+    "location": "Hilton Hawaiian Village, Honolulu, Hawaii, USA",
+    "conferenceStart": "2026-06-14",
+    "conferenceEnd": "2026-06-18",
+    "timezone": "Pacific/Honolulu",
+    "statusNote": "2026 regular and late-news submissions are closed; keep this entry so the tracker can roll forward when the 2027 CFP appears.",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "Regular paper submission",
+        "datetime": "2026-01-27T07:59:00Z",
+        "displayTime": "Jan 26, 2026, 23:59 PST"
+      },
+      {
+        "type": "late-news",
+        "label": "Late News submission",
+        "datetime": "2026-03-31T06:59:00Z",
+        "displayTime": "Mar 30, 2026, 23:59 PST"
+      }
+    ],
+    "sources": [
+      "https://www.vlsisymposium.org/",
+      "https://www.vlsisymposium.org/call-for-papers/"
+    ],
+    "watch": {
+      "strategy": "contains",
+      "keywords": ["Submission Deadline", "Late News", "JUNE 14-18, 2026"]
+    }
+  },
+  {
+    "id": "esserc-2026",
+    "name": "ESSERC",
+    "year": 2026,
+    "fullName": "IEEE European Solid-State Electronics Research Conference",
+    "area": "circuits",
+    "tags": ["solid-state", "devices", "circuits", "AI/ML circuits"],
+    "location": "Auditorium Palma de Mallorca, Palma de Mallorca, Spain",
+    "conferenceStart": "2026-09-07",
+    "conferenceEnd": "2026-09-10",
+    "timezone": "Europe/Madrid",
+    "statusNote": "Submission is closed; final submission and copyright deadline has also passed.",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "New submission deadline",
+        "datetime": "2026-04-11T04:59:00Z",
+        "displayTime": "Apr 10, 2026, 23:59 UTC-05:00"
+      },
+      {
+        "type": "camera-ready",
+        "label": "Final submission & copyright",
+        "datetime": "2026-06-09T04:59:00Z",
+        "displayTime": "Jun 8, 2026, 23:59 UTC-05:00"
+      }
+    ],
+    "sources": [
+      "https://www.esserc2026.org/",
+      "https://www.esserc2026.org/papers",
+      "https://www.esserc2026.org/venue"
+    ],
+    "watch": {
+      "strategy": "contains",
+      "keywords": ["PAPERS SUBMISSION DEADLINE", "APRIL 10, 2026", "September 7-10, 2026"]
+    }
+  },
+  {
+    "id": "asscc-2026",
+    "name": "A-SSCC / ASSCC",
+    "year": 2026,
+    "fullName": "IEEE Asian Solid-State Circuits Conference",
+    "area": "circuits",
+    "tags": ["solid-state circuits", "AI processors", "memory", "digital systems"],
+    "location": "The Lin Hotel, Taichung, Taiwan",
+    "conferenceStart": "2026-11-01",
+    "conferenceEnd": "2026-11-04",
+    "timezone": "Asia/Taipei",
+    "statusNote": "Deadline was extended from Jun 3 to Jun 14, 2026.",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "Paper submission",
+        "datetime": "2026-06-14T20:00:00Z",
+        "displayTime": "Jun 14, 2026, 20:00 GMT"
+      }
+    ],
+    "sources": [
+      "https://www.a-sscc2026.org/",
+      "https://www.a-sscc2026.org/venue-for-the-conference"
+    ],
+    "watch": {
+      "strategy": "contains",
+      "keywords": ["submission deadline has been extended", "June 14, 2026", "The Lin Hotel"]
+    }
+  },
+  {
+    "id": "isca-2026",
+    "name": "ISCA",
+    "year": 2026,
+    "fullName": "IEEE/ACM International Symposium on Computer Architecture",
+    "area": "architecture",
+    "tags": ["computer architecture", "accelerators", "datacenter", "memory"],
+    "location": "Raleigh, NC, USA",
+    "conferenceStart": "2026-06-27",
+    "conferenceEnd": "2026-07-01",
+    "timezone": "America/New_York",
+    "statusNote": "Main-track and industry-track paper deadlines are closed.",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "Main-track abstract",
+        "datetime": "2025-11-11T11:59:00Z",
+        "displayTime": "Nov 10, 2025, 23:59 AoE"
+      },
+      {
+        "type": "paper",
+        "label": "Main-track full paper",
+        "datetime": "2025-11-18T11:59:00Z",
+        "displayTime": "Nov 17, 2025, 23:59 AoE"
+      },
+      {
+        "type": "paper",
+        "label": "Industry-track full paper",
+        "datetime": "2025-12-13T11:59:00Z",
+        "displayTime": "Dec 12, 2025, 23:59 AoE"
+      }
+    ],
+    "sources": [
+      "https://iscaconf.org/isca2026/",
+      "https://iscaconf.org/isca2026/submit/callforpapers.php"
+    ],
+    "watch": {
+      "strategy": "contains",
+      "keywords": ["Important Dates", "Full Paper Deadline", "June 27"]
+    }
+  },
+  {
+    "id": "hpca-2027",
+    "name": "HPCA",
+    "year": 2027,
+    "fullName": "IEEE International Symposium on High-Performance Computer Architecture",
+    "area": "architecture",
+    "tags": ["computer architecture", "memory", "accelerators", "datacenter"],
+    "location": "Salt Lake City, Utah, USA",
+    "conferenceStart": "2027-01-30",
+    "conferenceEnd": "2027-02-03",
+    "timezone": "America/Denver",
+    "statusNote": "Official site says the CFP page is still under construction; verify before relying on venue/date details.",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "Paper registration / abstract",
+        "datetime": "2026-07-25T11:59:00Z",
+        "displayTime": "Jul 24, 2026, 23:59 AoE"
+      },
+      {
+        "type": "paper",
+        "label": "Paper submission",
+        "datetime": "2026-08-01T11:59:00Z",
+        "displayTime": "Jul 31, 2026, 23:59 AoE"
+      }
+    ],
+    "sources": [
+      "https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference"
+    ],
+    "watch": {
+      "strategy": "contains",
+      "keywords": ["Paper Registration and Abstract Submission", "Paper Submission", "under construction"]
+    }
+  },
+  {
+    "id": "asplos-2027-april",
+    "name": "ASPLOS",
+    "year": 2027,
+    "fullName": "ACM International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "area": "architecture/systems",
+    "tags": ["architecture", "systems", "programming languages", "OS"],
+    "location": "Heraklion, Crete, Greece",
+    "conferenceStart": "2027-04-11",
+    "conferenceEnd": "2027-04-15",
+    "timezone": "Europe/Athens",
+    "statusNote": "ASPLOS 2027 has April and September submission cycles.",
+    "deadlines": [
+      {
+        "type": "paper",
+        "label": "April-cycle full paper",
+        "datetime": "2026-04-16T11:59:00Z",
+        "displayTime": "Apr 15, 2026, AoE"
+      },
+      {
+        "type": "paper",
+        "label": "September-cycle full paper",
+        "datetime": "2026-09-10T11:59:00Z",
+        "displayTime": "Sep 9, 2026, AoE"
+      }
+    ],
+    "sources": [
+      "https://www.asplos-conference.org/asplos2027/cfp/",
+      "https://www.asplos-conference.org/"
+    ],
+    "watch": {
+      "strategy": "contains",
+      "keywords": ["Full paper submission", "April 15, 2026", "September 9, 2026"]
+    }
+  },
+  {
+    "id": "micro-2026",
+    "name": "MICRO",
+    "year": 2026,
+    "fullName": "IEEE/ACM International Symposium on Microarchitecture",
+    "area": "architecture",
+    "tags": ["microarchitecture", "processors", "memory", "accelerators"],
+    "location": "Athens, Greece",
+    "conferenceStart": "2026-10-31",
+    "conferenceEnd": "2026-11-04",
+    "timezone": "Europe/Athens",
+    "statusNote": "Paper submission is closed; rebuttal/revision runs Jun 3-17, 2026.",
+    "deadlines": [
+      {
+        "type": "abstract",
+        "label": "Abstract deadline",
+        "datetime": "2026-04-01T03:59:00Z",
+        "displayTime": "Mar 31, 2026, 23:59 EDT"
+      },
+      {
+        "type": "paper",
+        "label": "Full paper deadline",
+        "datetime": "2026-04-08T03:59:00Z",
+        "displayTime": "Apr 7, 2026, 23:59 EDT"
+      }
+    ],
+    "sources": [
+      "https://www.microarch.org/micro59/",
+      "https://www.microarch.org/micro59/submit/papers.php"
+    ],
+    "watch": {
+      "strategy": "contains",
+      "keywords": ["Abstract Deadline", "Full Paper Deadline", "October 31"]
+    }
+  }
+]

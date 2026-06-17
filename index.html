@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chip & Architecture Conference Countdown</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Conference Deadline Tracker</p>
+      <h1>Chip & Architecture Conference Countdown</h1>
+      <p class="subtitle">Track submission deadlines, conference dates, locations, and source changes for ISSCC, VLSI, ESSERC, A-SSCC, ISCA, HPCA, ASPLOS, MICRO, and more.</p>
+    </div>
+    <div class="hero-card">
+      <span class="label">Next deadline</span>
+      <strong id="nextDeadlineName">Loading…</strong>
+      <span id="nextDeadlineCountdown">—</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="toolbar" aria-label="Filters">
+      <label>
+        Search
+        <input id="searchInput" type="search" placeholder="ISSCC, memory, architecture…" />
+      </label>
+      <label>
+        Area
+        <select id="areaFilter">
+          <option value="all">All</option>
+          <option value="circuits">Circuits / chips</option>
+          <option value="architecture">Architecture</option>
+          <option value="architecture/systems">Architecture + systems</option>
+        </select>
+      </label>
+      <label>
+        Status
+        <select id="statusFilter">
+          <option value="all">All</option>
+          <option value="upcoming">Upcoming deadlines</option>
+          <option value="closed">Closed deadlines</option>
+        </select>
+      </label>
+      <button id="exportBtn" type="button">Export upcoming deadlines (.ics)</button>
+    </section>
+
+    <section id="cards" class="grid" aria-live="polite"></section>
+  </main>
+
+  <template id="confCardTemplate">
+    <article class="card">
+      <div class="card-header">
+        <div>
+          <h2></h2>
+          <p class="full-name"></p>
+        </div>
+        <span class="pill"></span>
+      </div>
+      <div class="meta"></div>
+      <div class="countdown"></div>
+      <div class="deadlines"></div>
+      <p class="note"></p>
+      <div class="links"></div>
+    </article>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+name: Check conference source pages
+
+on:
+  schedule:
+    - cron: "15 0 * * *"  # daily at 00:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Check source pages
+        id: check
+        continue-on-error: true
+        run: python scripts/check_dates.py
+      - name: Commit updated snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/snapshots.json watch-report.md
+          git diff --cached --quiet || git commit -m "Update conference source snapshots"
+          git push
+      - name: Open issue when a source page changed
+        if: steps.check.outcome == 'failure'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Conference source page changed: verify dates"
+          content-filepath: watch-report.md
+          labels: conference-dates, needs-verification
