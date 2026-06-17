@@ -35,3 +35,5 @@ The frontend is static and reliable. Dynamic tracking is handled by GitHub Actio
 4. After verification, edit `data/conferences.json`.
 
 This avoids silently trusting brittle scraping logic.
+
+GitHub Pages test.
