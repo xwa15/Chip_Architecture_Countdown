@@ -1,0 +1,146 @@
+{
+  "isscc-2027::https://www.isscc.org/paper-submission": {
+    "hash": "ac332adbb4669f23",
+    "keywords": {
+      "Deadline for Electronic Submission": true,
+      "September 9, 2026": true,
+      "February 14-18, 2027": false
+    },
+    "checkedAt": 1781758744
+  },
+  "isscc-2027::https://www.isscc.org/call-for-papers-overview": {
+    "hash": "10086bb345a7ab99",
+    "keywords": {
+      "Deadline for Electronic Submission": false,
+      "September 9, 2026": false,
+      "February 14-18, 2027": true
+    },
+    "checkedAt": 1781758745
+  },
+  "vlsi-2026::https://www.vlsisymposium.org/": {
+    "hash": "0e6b9581c386614c",
+    "keywords": {
+      "Submission Deadline": false,
+      "Late News": true,
+      "JUNE 14-18, 2026": true
+    },
+    "checkedAt": 1781758745
+  },
+  "vlsi-2026::https://www.vlsisymposium.org/call-for-papers/": {
+    "hash": "5db36528379058fc",
+    "keywords": {
+      "Submission Deadline": true,
+      "Late News": true,
+      "JUNE 14-18, 2026": false
+    },
+    "checkedAt": 1781758746
+  },
+  "esserc-2026::https://www.esserc2026.org/": {
+    "hash": "3b472b203ca23460",
+    "keywords": {
+      "PAPERS SUBMISSION DEADLINE": false,
+      "APRIL 10, 2026": false,
+      "September 7-10, 2026": true
+    },
+    "checkedAt": 1781758746
+  },
+  "esserc-2026::https://www.esserc2026.org/papers": {
+    "hash": "d4f5ee44bbd2333b",
+    "keywords": {
+      "PAPERS SUBMISSION DEADLINE": true,
+      "APRIL 10, 2026": true,
+      "September 7-10, 2026": false
+    },
+    "checkedAt": 1781758746
+  },
+  "esserc-2026::https://www.esserc2026.org/venue": {
+    "hash": "4bc2d0ad77501aca",
+    "keywords": {
+      "PAPERS SUBMISSION DEADLINE": false,
+      "APRIL 10, 2026": false,
+      "September 7-10, 2026": false
+    },
+    "checkedAt": 1781758748
+  },
+  "asscc-2026::https://www.a-sscc2026.org/": {
+    "hash": "a6338698e2ae2954",
+    "keywords": {
+      "submission deadline has been extended": true,
+      "June 14, 2026": true,
+      "The Lin Hotel": false
+    },
+    "checkedAt": 1781758749
+  },
+  "asscc-2026::https://www.a-sscc2026.org/venue-for-the-conference": {
+    "hash": "1f7cf581d19b3609",
+    "keywords": {
+      "submission deadline has been extended": false,
+      "June 14, 2026": false,
+      "The Lin Hotel": true
+    },
+    "checkedAt": 1781758750
+  },
+  "isca-2026::https://iscaconf.org/isca2026/": {
+    "hash": "c50b4b5edfd82eb0",
+    "keywords": {
+      "Important Dates": false,
+      "Full Paper Deadline": false,
+      "June 27": true
+    },
+    "checkedAt": 1781758750
+  },
+  "isca-2026::https://iscaconf.org/isca2026/submit/callforpapers.php": {
+    "hash": "70165c921875f1a1",
+    "keywords": {
+      "Important Dates": true,
+      "Full Paper Deadline": true,
+      "June 27": true
+    },
+    "checkedAt": 1781758750
+  },
+  "hpca-2027::https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference": {
+    "hash": "9213f2e2f5fcd945",
+    "keywords": {
+      "Paper Registration and Abstract Submission": true,
+      "Paper Submission": true,
+      "under construction": true
+    },
+    "checkedAt": 1781758751
+  },
+  "asplos-2027-april::https://www.asplos-conference.org/asplos2027/cfp/": {
+    "hash": "cc26e73ab00f3504",
+    "keywords": {
+      "Full paper submission": true,
+      "April 15, 2026": true,
+      "September 9, 2026": true
+    },
+    "checkedAt": 1781758752
+  },
+  "asplos-2027-april::https://www.asplos-conference.org/": {
+    "hash": "a02ce174abbd2aa6",
+    "keywords": {
+      "Full paper submission": false,
+      "April 15, 2026": false,
+      "September 9, 2026": false
+    },
+    "checkedAt": 1781758752
+  },
+  "micro-2026::https://www.microarch.org/micro59/": {
+    "hash": "cb1e909581b48c98",
+    "keywords": {
+      "Abstract Deadline": true,
+      "Full Paper Deadline": true,
+      "October 31": true
+    },
+    "checkedAt": 1781758753
+  },
+  "micro-2026::https://www.microarch.org/micro59/submit/papers.php": {
+    "hash": "fba166b3a2670c63",
+    "keywords": {
+      "Abstract Deadline": true,
+      "Full Paper Deadline": true,
+      "October 31": true
+    },
+    "checkedAt": 1781758753
+  }
+}
