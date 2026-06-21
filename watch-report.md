@@ -1,11 +1,9 @@
 # Conference source watch report
 
 ## Pages with changes
-- **ESSERC 2026** changed: https://www.esserc2026.org/
-  - old hash: `3b472b203ca23460`; new hash: `e7de8fb7eb07f531`
-- **ESSERC 2026** changed: https://www.esserc2026.org/papers
-  - old hash: `d4f5ee44bbd2333b`; new hash: `4b4b150d34d6a058`
-- **ESSERC 2026** changed: https://www.esserc2026.org/venue
-  - old hash: `4bc2d0ad77501aca`; new hash: `a8a8c51cefeab63a`
 - **HPCA 2027** changed: https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
-  - old hash: `b504abaf2839a551`; new hash: `37faef0d0d84b108`
+  - old hash: `37faef0d0d84b108`; new hash: `94101ed9db4d9138`
+- **ASPLOS 2027** changed: https://www.asplos-conference.org/asplos2027/cfp/
+  - old hash: `cc26e73ab00f3504`; new hash: `9fadd8642b45b2e3`
+- **ASPLOS 2027** changed: https://www.asplos-conference.org/
+  - old hash: `a02ce174abbd2aa6`; new hash: `b76f3f6ea673da65`
