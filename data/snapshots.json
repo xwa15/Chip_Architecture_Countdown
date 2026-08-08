@@ -24,7 +24,7 @@
       "Late News": true,
       "JUNE 14-18, 2026": true
     },
-    "checkedAt": 1786072387
+    "checkedAt": 1786155505
   },
   "vlsi-2026::https://www.vlsisymposium.org/call-for-papers/": {
     "hash": "5db36528379058fc",
@@ -33,7 +33,7 @@
       "Late News": true,
       "JUNE 14-18, 2026": false
     },
-    "checkedAt": 1786072387
+    "checkedAt": 1786155506
   },
   "esserc-2026::https://www.esserc2026.org/": {
     "hash": "56ebe9e2f3945361",
@@ -42,7 +42,7 @@
       "APRIL 10, 2026": false,
       "September 7-10, 2026": true
     },
-    "checkedAt": 1786072387
+    "checkedAt": 1786155506
   },
   "esserc-2026::https://www.esserc2026.org/papers": {
     "hash": "b8db237d8169ab81",
@@ -51,16 +51,16 @@
       "APRIL 10, 2026": true,
       "September 7-10, 2026": false
     },
-    "checkedAt": 1786072387
+    "checkedAt": 1786155506
   },
   "esserc-2026::https://www.esserc2026.org/venue": {
-    "hash": "0b2167ca3e2053f2",
+    "hash": "e3772f3f7b5ab6a2",
     "keywords": {
       "PAPERS SUBMISSION DEADLINE": false,
       "APRIL 10, 2026": false,
       "September 7-10, 2026": false
     },
-    "checkedAt": 1785037870
+    "checkedAt": 1786155506
   },
   "asscc-2026::https://www.a-sscc2026.org/": {
     "hash": "a6338698e2ae2954",
@@ -69,7 +69,7 @@
       "June 14, 2026": true,
       "The Lin Hotel": false
     },
-    "checkedAt": 1786072389
+    "checkedAt": 1786155507
   },
   "asscc-2026::https://www.a-sscc2026.org/venue-for-the-conference": {
     "hash": "1f7cf581d19b3609",
@@ -78,7 +78,7 @@
       "June 14, 2026": false,
       "The Lin Hotel": true
     },
-    "checkedAt": 1786072390
+    "checkedAt": 1786155508
   },
   "isca-2026::https://iscaconf.org/isca2026/": {
     "hash": "9ed781e649989161",
@@ -87,7 +87,7 @@
       "Full Paper Deadline": false,
       "June 27": true
     },
-    "checkedAt": 1786072390
+    "checkedAt": 1786155508
   },
   "isca-2026::https://iscaconf.org/isca2026/submit/callforpapers.php": {
     "hash": "70165c921875f1a1",
@@ -96,25 +96,25 @@
       "Full Paper Deadline": true,
       "June 27": true
     },
-    "checkedAt": 1786072390
+    "checkedAt": 1786155509
   },
   "hpca-2027::https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference": {
-    "hash": "79a4339a2f5a777a",
+    "hash": "c304f00ec86d8916",
     "keywords": {
       "Paper Registration and Abstract Submission": true,
       "Paper Submission": true,
       "under construction": false
     },
-    "checkedAt": 1786072391
+    "checkedAt": 1786155510
   },
   "asplos-2027-april::https://www.asplos-conference.org/asplos2027/cfp/": {
-    "hash": "b07e921b7d5e415f",
+    "hash": "4b84c9932c003a17",
     "keywords": {
       "Full paper submission": true,
       "April 15, 2026": true,
       "September 9, 2026": true
     },
-    "checkedAt": 1786072391
+    "checkedAt": 1786155510
   },
   "asplos-2027-april::https://www.asplos-conference.org/": {
     "hash": "1ad928c0b7035223",
@@ -123,7 +123,7 @@
       "April 15, 2026": false,
       "September 9, 2026": false
     },
-    "checkedAt": 1786072391
+    "checkedAt": 1786155511
   },
   "micro-2026::https://www.microarch.org/micro59/": {
     "hash": "430709c03879fe98",
@@ -132,7 +132,7 @@
       "Full Paper Deadline": true,
       "October 31": true
     },
-    "checkedAt": 1786072392
+    "checkedAt": 1786155511
   },
   "micro-2026::https://www.microarch.org/micro59/submit/papers.php": {
     "hash": "4d06991cce451613",
@@ -141,6 +141,6 @@
       "Full Paper Deadline": true,
       "October 31": true
     },
-    "checkedAt": 1786072392
+    "checkedAt": 1786155512
   }
 }
