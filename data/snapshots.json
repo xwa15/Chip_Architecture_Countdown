@@ -24,7 +24,7 @@
       "Late News": true,
       "JUNE 14-18, 2026": true
     },
-    "checkedAt": 1786502432
+    "checkedAt": 1786589014
   },
   "vlsi-2026::https://www.vlsisymposium.org/call-for-papers/": {
     "hash": "5db36528379058fc",
@@ -33,7 +33,7 @@
       "Late News": true,
       "JUNE 14-18, 2026": false
     },
-    "checkedAt": 1786502432
+    "checkedAt": 1786589014
   },
   "esserc-2026::https://www.esserc2026.org/": {
     "hash": "56ebe9e2f3945361",
@@ -42,7 +42,7 @@
       "APRIL 10, 2026": false,
       "September 7-10, 2026": true
     },
-    "checkedAt": 1786502434
+    "checkedAt": 1786589015
   },
   "esserc-2026::https://www.esserc2026.org/papers": {
     "hash": "b8db237d8169ab81",
@@ -51,7 +51,7 @@
       "APRIL 10, 2026": true,
       "September 7-10, 2026": false
     },
-    "checkedAt": 1786502435
+    "checkedAt": 1786589015
   },
   "esserc-2026::https://www.esserc2026.org/venue": {
     "hash": "e3772f3f7b5ab6a2",
@@ -60,7 +60,7 @@
       "APRIL 10, 2026": false,
       "September 7-10, 2026": false
     },
-    "checkedAt": 1786502435
+    "checkedAt": 1786589016
   },
   "asscc-2026::https://www.a-sscc2026.org/": {
     "hash": "a6338698e2ae2954",
@@ -69,7 +69,7 @@
       "June 14, 2026": true,
       "The Lin Hotel": false
     },
-    "checkedAt": 1786502438
+    "checkedAt": 1786589016
   },
   "asscc-2026::https://www.a-sscc2026.org/venue-for-the-conference": {
     "hash": "1f7cf581d19b3609",
@@ -78,69 +78,69 @@
       "June 14, 2026": false,
       "The Lin Hotel": true
     },
-    "checkedAt": 1786502439
+    "checkedAt": 1786589017
   },
   "isca-2026::https://iscaconf.org/isca2026/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "9ed781e649989161",
     "keywords": {
       "Important Dates": false,
       "Full Paper Deadline": false,
-      "June 27": false
+      "June 27": true
     },
-    "checkedAt": 1786502439
+    "checkedAt": 1786589018
   },
   "isca-2026::https://iscaconf.org/isca2026/submit/callforpapers.php": {
-    "hash": "ab1560fe2de14719",
+    "hash": "70165c921875f1a1",
     "keywords": {
-      "Important Dates": false,
-      "Full Paper Deadline": false,
-      "June 27": false
+      "Important Dates": true,
+      "Full Paper Deadline": true,
+      "June 27": true
     },
-    "checkedAt": 1786502439
+    "checkedAt": 1786589018
   },
   "hpca-2027::https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference": {
-    "hash": "d25a5fea0f6e4a9e",
+    "hash": "323af3f14c782d0b",
     "keywords": {
       "Paper Registration and Abstract Submission": true,
       "Paper Submission": true,
       "under construction": false
     },
-    "checkedAt": 1786502440
+    "checkedAt": 1786589019
   },
   "asplos-2027-april::https://www.asplos-conference.org/asplos2027/cfp/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "4b84c9932c003a17",
     "keywords": {
-      "Full paper submission": false,
-      "April 15, 2026": false,
-      "September 9, 2026": false
+      "Full paper submission": true,
+      "April 15, 2026": true,
+      "September 9, 2026": true
     },
-    "checkedAt": 1786502440
+    "checkedAt": 1786589020
   },
   "asplos-2027-april::https://www.asplos-conference.org/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "1ad928c0b7035223",
     "keywords": {
       "Full paper submission": false,
       "April 15, 2026": false,
       "September 9, 2026": false
     },
-    "checkedAt": 1786502440
+    "checkedAt": 1786589020
   },
   "micro-2026::https://www.microarch.org/micro59/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "430709c03879fe98",
     "keywords": {
-      "Abstract Deadline": false,
-      "Full Paper Deadline": false,
-      "October 31": false
+      "Abstract Deadline": true,
+      "Full Paper Deadline": true,
+      "October 31": true
     },
-    "checkedAt": 1786502441
+    "checkedAt": 1786589021
   },
   "micro-2026::https://www.microarch.org/micro59/submit/papers.php": {
-    "hash": "ab1560fe2de14719",
+    "hash": "4d06991cce451613",
     "keywords": {
-      "Abstract Deadline": false,
-      "Full Paper Deadline": false,
-      "October 31": false
+      "Abstract Deadline": true,
+      "Full Paper Deadline": true,
+      "October 31": true
     },
-    "checkedAt": 1786502441
+    "checkedAt": 1786589021
   }
 }
