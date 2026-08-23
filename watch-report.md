@@ -1,14 +1,25 @@
 # Conference source watch report
 
 ## Pages with changes
-- **ESSERC 2026** changed: https://www.esserc2026.org/
-  - old hash: `3617d60c6fa7130e`; new hash: `a1f5ed270b3c0f10`
-- **ESSERC 2026** changed: https://www.esserc2026.org/papers
-  - old hash: `ce318f9e4f57ce7b`; new hash: `4a51380782ce664f`
+- **ISCA 2026** changed: https://iscaconf.org/isca2026/
+  - old hash: `9ed781e649989161`; new hash: `ab1560fe2de14719`
+  - keyword-hit changes: June 27
+- **ISCA 2026** changed: https://iscaconf.org/isca2026/submit/callforpapers.php
+  - old hash: `70165c921875f1a1`; new hash: `ab1560fe2de14719`
+  - keyword-hit changes: Important Dates, Full Paper Deadline, June 27
 - **HPCA 2027** changed: https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
-  - old hash: `8980440e24b9c0f0`; new hash: `d1fbf3d64866a340`
+  - old hash: `d1fbf3d64866a340`; new hash: `b656ab329197a1cc`
 - **ASPLOS 2027** changed: https://www.asplos-conference.org/asplos2027/cfp/
-  - old hash: `4b84c9932c003a17`; new hash: `4481c3d8cb8080e7`
+  - old hash: `4481c3d8cb8080e7`; new hash: `ab1560fe2de14719`
+  - keyword-hit changes: Full paper submission, April 15, 2026, September 9, 2026
+- **ASPLOS 2027** changed: https://www.asplos-conference.org/
+  - old hash: `1ad928c0b7035223`; new hash: `ab1560fe2de14719`
+- **MICRO 2026** changed: https://www.microarch.org/micro59/
+  - old hash: `d52c15b6c994e148`; new hash: `ab1560fe2de14719`
+  - keyword-hit changes: Abstract Deadline, Full Paper Deadline, October 31
+- **MICRO 2026** changed: https://www.microarch.org/micro59/submit/papers.php
+  - old hash: `4d06991cce451613`; new hash: `ab1560fe2de14719`
+  - keyword-hit changes: Abstract Deadline, Full Paper Deadline, October 31
 
 ## Fetch errors
 - **ISSCC 2027**: https://www.isscc.org/paper-submission — `HTTP Error 404: Not Found`
