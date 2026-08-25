@@ -1,29 +1,14 @@
 # Conference source watch report
 
 ## Pages with changes
-- **ISCA 2026** changed: https://iscaconf.org/isca2026/
-  - old hash: `ab1560fe2de14719`; new hash: `9ed781e649989161`
-  - keyword-hit changes: June 27
-- **ISCA 2026** changed: https://iscaconf.org/isca2026/submit/callforpapers.php
-  - old hash: `ab1560fe2de14719`; new hash: `70165c921875f1a1`
-  - keyword-hit changes: Important Dates, Full Paper Deadline, June 27
+- **ESSERC 2026** changed: https://www.esserc2026.org/
+  - old hash: `a1f5ed270b3c0f10`; new hash: `23364682b5272d6a`
+- **ESSERC 2026** changed: https://www.esserc2026.org/papers
+  - old hash: `4a51380782ce664f`; new hash: `c7025c4c53f14102`
 - **HPCA 2027** changed: https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
-  - old hash: `b656ab329197a1cc`; new hash: `6b4c487e2074a6cf`
-- **ASPLOS 2027** changed: https://www.asplos-conference.org/asplos2027/cfp/
-  - old hash: `ab1560fe2de14719`; new hash: `4481c3d8cb8080e7`
-  - keyword-hit changes: Full paper submission, April 15, 2026, September 9, 2026
-- **ASPLOS 2027** changed: https://www.asplos-conference.org/
-  - old hash: `ab1560fe2de14719`; new hash: `1ad928c0b7035223`
-- **MICRO 2026** changed: https://www.microarch.org/micro59/
-  - old hash: `ab1560fe2de14719`; new hash: `d52c15b6c994e148`
-  - keyword-hit changes: Abstract Deadline, Full Paper Deadline, October 31
-- **MICRO 2026** changed: https://www.microarch.org/micro59/submit/papers.php
-  - old hash: `ab1560fe2de14719`; new hash: `4d06991cce451613`
-  - keyword-hit changes: Abstract Deadline, Full Paper Deadline, October 31
+  - old hash: `6b4c487e2074a6cf`; new hash: `f1051e28c0031ea6`
 
 ## Fetch errors
 - **ISSCC 2027**: https://www.isscc.org/paper-submission — `HTTP Error 404: Not Found`
 - **ISSCC 2027**: https://www.isscc.org/call-for-papers-overview — `HTTP Error 404: Not Found`
 - **ESSERC 2026**: https://www.esserc2026.org/venue — `HTTP Error 429: Too Many Requests`
-- **A-SSCC / ASSCC 2026**: https://www.a-sscc2026.org/ — `HTTP Error 521: <none>`
-- **A-SSCC / ASSCC 2026**: https://www.a-sscc2026.org/venue-for-the-conference — `HTTP Error 521: <none>`
