@@ -2,11 +2,13 @@
 
 ## Pages with changes
 - **ESSERC 2026** changed: https://www.esserc2026.org/
-  - old hash: `a1f5ed270b3c0f10`; new hash: `23364682b5272d6a`
-- **ESSERC 2026** changed: https://www.esserc2026.org/papers
-  - old hash: `4a51380782ce664f`; new hash: `c7025c4c53f14102`
+  - old hash: `23364682b5272d6a`; new hash: `946e78269fc8f272`
+- **ISCA 2026** changed: https://iscaconf.org/isca2026/
+  - old hash: `9ed781e649989161`; new hash: `582f37ab5033ba3c`
+- **ISCA 2026** changed: https://iscaconf.org/isca2026/submit/callforpapers.php
+  - old hash: `70165c921875f1a1`; new hash: `8815faa2e82843b1`
 - **HPCA 2027** changed: https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
-  - old hash: `6b4c487e2074a6cf`; new hash: `f1051e28c0031ea6`
+  - old hash: `f1051e28c0031ea6`; new hash: `e5aacb0450dcee21`
 
 ## Fetch errors
 - **ISSCC 2027**: https://www.isscc.org/paper-submission — `HTTP Error 404: Not Found`
