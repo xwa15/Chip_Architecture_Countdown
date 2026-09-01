@@ -1,10 +1,12 @@
 # Conference source watch report
 
 ## Pages with changes
-- **A-SSCC / ASSCC 2026** changed: https://www.a-sscc2026.org/
-  - old hash: `413dc562748722d4`; new hash: `7adf62d54bfbf174`
+- **ESSERC 2026** changed: https://www.esserc2026.org/
+  - old hash: `946e78269fc8f272`; new hash: `c3ed1560361d8dd3`
+- **ESSERC 2026** changed: https://www.esserc2026.org/papers
+  - old hash: `c7025c4c53f14102`; new hash: `90f497d7f3edcd9d`
 - **HPCA 2027** changed: https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
-  - old hash: `2102243d94b1363f`; new hash: `c39dc7bea2af4b20`
+  - old hash: `c39dc7bea2af4b20`; new hash: `1bc9dcc12af788ff`
 
 ## Fetch errors
 - **ISSCC 2027**: https://www.isscc.org/paper-submission — `HTTP Error 404: Not Found`
