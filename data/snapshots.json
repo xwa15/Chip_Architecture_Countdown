@@ -18,13 +18,13 @@
     "checkedAt": 1782793339
   },
   "vlsi-2026::https://www.vlsisymposium.org/": {
-    "hash": "56a670b5f6f0599f",
+    "hash": "0e289ab7caf7149f",
     "keywords": {
-      "Submission Deadline": false,
-      "Late News": true,
-      "JUNE 14-18, 2026": true
+      "Submission Deadline": true,
+      "Late News": false,
+      "JUNE 14-18, 2026": false
     },
-    "checkedAt": 1788669083
+    "checkedAt": 1788755450
   },
   "vlsi-2026::https://www.vlsisymposium.org/call-for-papers/": {
     "hash": "5db36528379058fc",
@@ -42,7 +42,7 @@
       "APRIL 10, 2026": false,
       "September 7-10, 2026": true
     },
-    "checkedAt": 1788669084
+    "checkedAt": 1788755451
   },
   "esserc-2026::https://www.esserc2026.org/papers": {
     "hash": "51b52b460abc9df0",
@@ -51,7 +51,7 @@
       "APRIL 10, 2026": true,
       "September 7-10, 2026": false
     },
-    "checkedAt": 1788669084
+    "checkedAt": 1788755451
   },
   "esserc-2026::https://www.esserc2026.org/venue": {
     "hash": "5308b340ebf78ca5",
@@ -69,7 +69,7 @@
       "June 14, 2026": true,
       "The Lin Hotel": false
     },
-    "checkedAt": 1788669086
+    "checkedAt": 1788755452
   },
   "asscc-2026::https://www.a-sscc2026.org/venue-for-the-conference": {
     "hash": "db220a56738884cb",
@@ -78,69 +78,69 @@
       "June 14, 2026": false,
       "The Lin Hotel": true
     },
-    "checkedAt": 1788669087
+    "checkedAt": 1788755455
   },
   "isca-2026::https://iscaconf.org/isca2026/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "582f37ab5033ba3c",
     "keywords": {
       "Important Dates": false,
       "Full Paper Deadline": false,
-      "June 27": false
+      "June 27": true
     },
-    "checkedAt": 1788669087
+    "checkedAt": 1788755456
   },
   "isca-2026::https://iscaconf.org/isca2026/submit/callforpapers.php": {
-    "hash": "ab1560fe2de14719",
+    "hash": "8815faa2e82843b1",
     "keywords": {
-      "Important Dates": false,
-      "Full Paper Deadline": false,
-      "June 27": false
+      "Important Dates": true,
+      "Full Paper Deadline": true,
+      "June 27": true
     },
-    "checkedAt": 1788669087
+    "checkedAt": 1788755456
   },
   "hpca-2027::https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference": {
-    "hash": "cb12ab2bb40781aa",
+    "hash": "84229d214a621e22",
     "keywords": {
       "Paper Registration and Abstract Submission": true,
       "Paper Submission": true,
       "under construction": false
     },
-    "checkedAt": 1788669088
+    "checkedAt": 1788755457
   },
   "asplos-2027-april::https://www.asplos-conference.org/asplos2027/cfp/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "acd88f4c02a9d554",
     "keywords": {
-      "Full paper submission": false,
-      "April 15, 2026": false,
-      "September 9, 2026": false
+      "Full paper submission": true,
+      "April 15, 2026": true,
+      "September 9, 2026": true
     },
-    "checkedAt": 1788669088
+    "checkedAt": 1788755458
   },
   "asplos-2027-april::https://www.asplos-conference.org/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "1ad928c0b7035223",
     "keywords": {
       "Full paper submission": false,
       "April 15, 2026": false,
       "September 9, 2026": false
     },
-    "checkedAt": 1788669089
+    "checkedAt": 1788755459
   },
   "micro-2026::https://www.microarch.org/micro59/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "b459e55ff1c6b8e8",
     "keywords": {
-      "Abstract Deadline": false,
-      "Full Paper Deadline": false,
-      "October 31": false
+      "Abstract Deadline": true,
+      "Full Paper Deadline": true,
+      "October 31": true
     },
-    "checkedAt": 1788669089
+    "checkedAt": 1788755459
   },
   "micro-2026::https://www.microarch.org/micro59/submit/papers.php": {
-    "hash": "ab1560fe2de14719",
+    "hash": "c780746f836831ad",
     "keywords": {
-      "Abstract Deadline": false,
-      "Full Paper Deadline": false,
-      "October 31": false
+      "Abstract Deadline": true,
+      "Full Paper Deadline": true,
+      "October 31": true
     },
-    "checkedAt": 1788669089
+    "checkedAt": 1788755460
   }
 }
