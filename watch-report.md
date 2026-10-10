@@ -1,10 +1,8 @@
 # Conference source watch report
 
 ## Pages with changes
-- **VLSI Symposium 2026** changed: https://www.vlsisymposium.org/
-  - old hash: `0e289ab7caf7149f`; new hash: `e40c3935d610347d`
 - **HPCA 2027** changed: https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
-  - old hash: `dd5327d912f6b465`; new hash: `31aab90aedc4c6c5`
+  - old hash: `31aab90aedc4c6c5`; new hash: `5004512c0201989e`
 
 ## Fetch errors
 - **ISSCC 2027**: https://www.isscc.org/paper-submission — `HTTP Error 404: Not Found`
