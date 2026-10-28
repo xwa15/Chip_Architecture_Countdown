@@ -2,7 +2,7 @@
 
 ## Pages with changes
 - **HPCA 2027** changed: https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference
-  - old hash: `0429b1448973c788`; new hash: `3b5209fe6643bb80`
+  - old hash: `3b5209fe6643bb80`; new hash: `2d17d466f83f8e28`
 
 ## Fetch errors
 - **ISSCC 2027**: https://www.isscc.org/paper-submission — `HTTP Error 404: Not Found`
