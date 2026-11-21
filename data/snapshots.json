@@ -24,7 +24,7 @@
       "Late News": false,
       "JUNE 14-18, 2026": false
     },
-    "checkedAt": 1795158222
+    "checkedAt": 1795244288
   },
   "vlsi-2026::https://www.vlsisymposium.org/call-for-papers/": {
     "hash": "5db36528379058fc",
@@ -42,7 +42,7 @@
       "APRIL 10, 2026": false,
       "September 7-10, 2026": true
     },
-    "checkedAt": 1795158222
+    "checkedAt": 1795244289
   },
   "esserc-2026::https://www.esserc2026.org/papers": {
     "hash": "034a0b9497cf0f52",
@@ -51,7 +51,7 @@
       "APRIL 10, 2026": true,
       "September 7-10, 2026": false
     },
-    "checkedAt": 1795158222
+    "checkedAt": 1795244289
   },
   "esserc-2026::https://www.esserc2026.org/venue": {
     "hash": "45e5d8841a7e6712",
@@ -60,7 +60,7 @@
       "APRIL 10, 2026": false,
       "September 7-10, 2026": false
     },
-    "checkedAt": 1795158223
+    "checkedAt": 1795244290
   },
   "asscc-2026::https://www.a-sscc2026.org/": {
     "hash": "c8dbcbe91b9560be",
@@ -69,7 +69,7 @@
       "June 14, 2026": false,
       "The Lin Hotel": false
     },
-    "checkedAt": 1795158224
+    "checkedAt": 1795244290
   },
   "asscc-2026::https://www.a-sscc2026.org/venue-for-the-conference": {
     "hash": "dc99878bed8d6bf5",
@@ -78,69 +78,69 @@
       "June 14, 2026": false,
       "The Lin Hotel": true
     },
-    "checkedAt": 1795158225
+    "checkedAt": 1795244291
   },
   "isca-2026::https://iscaconf.org/isca2026/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "582f37ab5033ba3c",
     "keywords": {
       "Important Dates": false,
       "Full Paper Deadline": false,
-      "June 27": false
+      "June 27": true
     },
-    "checkedAt": 1795158225
+    "checkedAt": 1795244291
   },
   "isca-2026::https://iscaconf.org/isca2026/submit/callforpapers.php": {
-    "hash": "ab1560fe2de14719",
+    "hash": "8815faa2e82843b1",
     "keywords": {
-      "Important Dates": false,
-      "Full Paper Deadline": false,
-      "June 27": false
+      "Important Dates": true,
+      "Full Paper Deadline": true,
+      "June 27": true
     },
-    "checkedAt": 1795158225
+    "checkedAt": 1795244291
   },
   "hpca-2027::https://conf.researchr.org/track/hpca-2027/hpca-2027-main-conference": {
-    "hash": "204b1cbc72967356",
+    "hash": "3e1fede3588b7391",
     "keywords": {
       "Paper Registration and Abstract Submission": true,
       "Paper Submission": true,
       "under construction": false
     },
-    "checkedAt": 1795158225
+    "checkedAt": 1795244292
   },
   "asplos-2027-april::https://www.asplos-conference.org/asplos2027/cfp/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "5ce307d72ba6c602",
     "keywords": {
-      "Full paper submission": false,
-      "April 15, 2026": false,
-      "September 9, 2026": false
+      "Full paper submission": true,
+      "April 15, 2026": true,
+      "September 9, 2026": true
     },
-    "checkedAt": 1795158226
+    "checkedAt": 1795244293
   },
   "asplos-2027-april::https://www.asplos-conference.org/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "b569eb8c43e44207",
     "keywords": {
       "Full paper submission": false,
       "April 15, 2026": false,
       "September 9, 2026": false
     },
-    "checkedAt": 1795158226
+    "checkedAt": 1795244293
   },
   "micro-2026::https://www.microarch.org/micro59/": {
-    "hash": "ab1560fe2de14719",
+    "hash": "52fb79af0efa2cd5",
     "keywords": {
-      "Abstract Deadline": false,
-      "Full Paper Deadline": false,
-      "October 31": false
+      "Abstract Deadline": true,
+      "Full Paper Deadline": true,
+      "October 31": true
     },
-    "checkedAt": 1795158226
+    "checkedAt": 1795244294
   },
   "micro-2026::https://www.microarch.org/micro59/submit/papers.php": {
-    "hash": "ab1560fe2de14719",
+    "hash": "2d41e8b8a5b37f3d",
     "keywords": {
-      "Abstract Deadline": false,
-      "Full Paper Deadline": false,
-      "October 31": false
+      "Abstract Deadline": true,
+      "Full Paper Deadline": true,
+      "October 31": true
     },
-    "checkedAt": 1795158226
+    "checkedAt": 1795244294
   }
 }
